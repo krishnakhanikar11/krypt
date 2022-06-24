@@ -1,3 +1,12 @@
+Key features:
+  Connected to blockchain
+  Metamask pairing
+  Interaction in smart contract
+  Sending ethereum through blockchain network
+  Writing solidity code
+  
+
+
 In smart_contract:
 step0: npm install --save-dev hardhat @nomiclabs/hardhat-waffle ethereum-waffle chai @nomiclabs/hardhat-ethers ethers
 step 1: In contracts folder, make a transaction.sol file where we write our ethereum contract.
